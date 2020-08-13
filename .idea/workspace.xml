@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b01d49e-9640-49a7-9eb4-75187193b028" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dixDfvCzI4S8oe4QtGdKAAKK5h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="xiancheng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.volatitle04">
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Synchronized.T" />
+      <module name="java_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Synchronized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volatitle01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Volatitle.Volatitle01" />
+      <module name="java_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Volatitle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="syanchroized06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Synchronized.syanchroized06" />
+      <module name="java_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Synchronized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="volatitle02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Volatitle.volatitle02" />
+      <module name="java_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Volatitle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="volatitle04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Volatitle.volatitle04" />
+      <module name="java_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Volatitle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.volatitle04" />
+        <item itemvalue="Application.volatitle02" />
+        <item itemvalue="Application.Volatitle01" />
+        <item itemvalue="Application.syanchroized06" />
+        <item itemvalue="Application.T" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b01d49e-9640-49a7-9eb4-75187193b028" name="Default Changelist" comment="" />
+      <created>1592921596904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592921596904</updated>
+      <workItem from="1592921599289" duration="1021000" />
+      <workItem from="1592982945796" duration="6008000" />
+      <workItem from="1593050759715" duration="2685000" />
+      <workItem from="1593173370449" duration="2027000" />
+      <workItem from="1593248239126" duration="495000" />
+      <workItem from="1593248773688" duration="5000" />
+      <workItem from="1593248921557" duration="1225000" />
+      <workItem from="1593258152184" duration="628000" />
+      <workItem from="1593486595652" duration="1692000" />
+      <workItem from="1597321463801" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="84" key="#Project_Structure" timestamp="1592921604571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="84" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592921604571" />
+    <state x="646" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1593173692728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="646" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593173692728" />
+    <state x="477" y="89" key="#synachoroized06" timestamp="1593173686070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="89" key="#synachoroized06/0.0.1536.824@0.0.1536.824" timestamp="1593173686070" />
+    <state width="1493" height="274" key="GridCell.Tab.0.bottom" timestamp="1593258781203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593258781203" />
+    <state width="1493" height="274" key="GridCell.Tab.0.center" timestamp="1593258781203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593258781203" />
+    <state width="1493" height="274" key="GridCell.Tab.0.left" timestamp="1593258781203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593258781203" />
+    <state width="1493" height="274" key="GridCell.Tab.0.right" timestamp="1593258781203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593258781203" />
+    <state x="342" y="67" key="SettingsEditor" timestamp="1593175108364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="67" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593175108364" />
+    <state x="380" y="112" width="920" height="624" key="dock-window-1" timestamp="1592983442203">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="112" width="920" height="624" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1592983442203" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1593053327954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593053327954" />
+    <state x="502" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593174975620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593174975620" />
+  </component>
+</project>
